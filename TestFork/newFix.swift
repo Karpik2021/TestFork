@@ -9,6 +9,6 @@ import Foundation
 
 class newFix {
     init() {
-        
+        print("masha")
     }
 }
