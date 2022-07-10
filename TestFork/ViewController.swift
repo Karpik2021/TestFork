@@ -16,6 +16,9 @@ class ViewController: UIViewController {
         print("weStart")
         
         print("nextCommit")
+        
+        
+        print("newBranch")
     }
 
 
