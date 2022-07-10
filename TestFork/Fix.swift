@@ -8,5 +8,5 @@
 import Foundation
 
 struct Fix {
-    
+    var Masha: String
 }
